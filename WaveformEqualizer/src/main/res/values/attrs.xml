@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EqualizerView">
+        <attr name="eqBands" format="integer"/>
+        <attr name="eqIsSliderGradient" format="boolean"/>
+        <attr name="eqBackgroundColor" format="color"/>
+        <attr name="eqWaveStartColor" format="integer"/>
+        <attr name="eqWaveEndColor" format="integer"/>
+        <attr name="eqWaveLineColor" format="integer"/>
+        <attr name="eqInactiveProgressStartColor" format="integer"/>
+        <attr name="eqInactiveProgressEndColor" format="integer"/>
+        <attr name="eqActiveProgressStartColor" format="integer"/>
+        <attr name="eqActiveProgressEndColor" format="integer"/>
+        <attr name="eqActiveProgressColor" format="integer"/>
+        <attr name="eqInActiveProgressColor" format="integer"/>
+        <attr name="eqBandsTextColor" format="integer"/>
+        <attr name="eqSeekBarPathColor" format="integer"/>
+
+        <attr name="eqActiveThumb" format="reference"/>
+        <attr name="eqInActiveThumb" format="reference"/>
+        <attr name="eqBandTextSize" format="dimension"/>
+    </declare-styleable>
+</resources>
