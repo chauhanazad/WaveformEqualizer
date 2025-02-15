@@ -10,3 +10,6 @@
 - Gesture-based touch interaction for adjusting band levels
 
 This component is ideal for integrating audio equalizer functionality into Android apps, providing a visually appealing and interactive user experience.
+
+<img width="273" alt="Equalizer" src="https://github.com/user-attachments/assets/01099928-ac33-4aa7-9c22-4d956b6cc429" />
+
